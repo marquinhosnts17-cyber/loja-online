@@ -1,1 +1,1 @@
-# loja online v2
+# loja online v2 (ajuste do dev 1)
